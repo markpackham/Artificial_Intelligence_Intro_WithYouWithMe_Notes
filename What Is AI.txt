@@ -1,0 +1,8 @@
+What is AI
+
+
+History of AI
+
+The history of AI is a riveting tale of human ingenuity and innovation. The concept of artificial intelligence dates back to the ancient world, but the modern field of AI came into existence in the mid-20th century. The term “Artificial Intelligence” was coined in 1956 at the Dartmouth Conference, where the core idea of “thinking machines” was proposed. 
+
+Since then, AI has evolved and grown exponentially, with significant breakthroughs like machine learning, neural networks, and deep learning. Starting with things such as a pocket calculator or a “Computer Controlled” opponent in a Chess match or video game, right up to the smart devices and suggestion algorithms of Netflix and Amazon that we see today
