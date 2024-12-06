@@ -4,6 +4,30 @@ Introduction
 
 Artificial Intelligence (AI) and Machine Learning (ML) are two buzzwords that have taken the world by storm. Today, they are embedded in various aspects of our lives, from voice assistants like Alexa and Siri to recommendation engines on Netflix and Amazon. 
 
-But have you ever paused to ask, "How does AI actually work?"
+Artificial Intelligence, at its core, is the science of making machines or computers act intelligently. It is a broad field that involves various sub-fields, including Machine Learning. AI aims to create systems that can perform tasks that would require human intelligence, such as understanding natural language, recognizing patterns, solving problems, and learning from experience.
 
-In this lesson we delve into the intricate world of AI and ML, and give a brief overview to help unravel some complexities and help your understanding of their functions.
+So, how does AI actually work? This question takes us to the heart of AI: algorithms. 
+
+AI works by using algorithms, which are sets of rules or instructions followed by the AI to solve a problem or complete a task. These algorithms, when fed with data, can make decisions, predict outcomes, or perform actions.
+
+
+Machine Learning is a subset of AI that focuses on the concept of “Learning from experience” as opposed to actual sentience. 
+
+It is based on the idea that systems can learn from data, identify patterns, and make decisions with minimal human intervention.
+
+In Machine Learning, algorithms are not explicitly programmed to perform a task. Instead, they are “Trained” using large amounts of data and algorithms. The ML models then learn to make predictions or decisions without being explicitly programmed to perform the task.
+
+For instance, a machine learning model can be trained to recognize images of cats by feeding it thousands of cat images. The model learns from these images and can then identify a cat in a new image.
+
+
+The Inner Workings of AI and ML
+
+So, how does AI actually work, especially in the context of Machine Learning? It all starts with data. AI and ML algorithms need data to learn and improve. The more data they have, the better they become at making predictions or decisions.
+
+Once the data is fed into the system, the algorithms sift through the data to find patterns or features that can help them make decisions or predictions. 
+
+Let us return to the Cat example mentioned previously. For instance, in the case of recognising this animal, the algorithm might learn that cats have pointy ears, fur, and whiskers.
+
+Once the algorithm has learned from the data, it can then make predictions or decisions. If it's a machine learning model, it can continue to learn and improve as it receives more data.
+
+In conclusion, the world of AI and Machine Learning is fascinating and complex. Both operate on the principles of learning from data, identifying patterns, and making decisions based on these patterns. As we continue to feed them more data, they continue to learn, evolve, and improve, becoming even more integrated into our daily lives.

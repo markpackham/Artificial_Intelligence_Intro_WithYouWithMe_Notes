@@ -1,0 +1,43 @@
+Why is AI growing so fast now?
+
+AI is not a new concept; its roots can be traced back to the mid-20th century. However, the exponential growth we are witnessing today is unprecedented. 
+
+In this lesson we will cover the “Hockey Stick” effect in its exponential upward growth over the last few years and look at some of the reasons why.
+
+
+Artificial Intelligence: The Heart of the Technological Revolution
+AI refers to the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, problem-solving, perception, and language understanding. 
+
+AI has found applications in numerous fields, including healthcare, finance, transportation, and entertainment. This widespread application is one of the reasons AI is growing so fast now.
+
+
+Machine Learning: The Brain of AI
+Machine Learning (ML) is a subset of AI that focuses on the development of computer programs that can access data and use it to learn for themselves.
+
+It is through ML that AI models can improve their performance without being explicitly programmed to do so. The growth of ML has been instrumental in the rapid expansion of AI. With the increasing availability of data and the advancement of algorithms, ML models have become more accurate and efficient, thus driving the growth of AI.
+
+
+Data Centres: The Backbone of AI and ML
+Data centres play a crucial role in the growth of AI and ML. They are dedicated spaces used to house computer systems and associated components, such as telecommunications and storage systems. 
+
+Data centres are the backbone of AI and ML because they provide the necessary infrastructure for storing, processing, and analysing vast amounts of data. 
+
+The growth and advancement of data centres have made it possible to handle the complex computational requirements of AI and ML, thus contributing to their rapid growth.
+
+
+Cloud Computing: The Catalyst for AI Growth
+Cloud computing has been a game-changer in the world of AI. It refers to the delivery of computing services over the internet, including servers, storage, databases, networking, software, analytics, and intelligence. 
+
+Cloud computing provides a platform where vast amounts of data can be stored and processed, making it an ideal environment for AI and ML. The scalability, flexibility, and cost-effectiveness of cloud computing have made AI and ML more accessible, thus driving their growth.
+
+
+
+Summary
+
+In conclusion, the rapid growth of AI can be attributed to the advancement and convergence of several technologies, including ML, data centres, and cloud computing. As these technologies continue to evolve, we can expect the growth of AI to accelerate even further. 
+
+The future of AI is undoubtedly bright, and it is set to revolutionise various aspects of our lives. The key to harnessing the full potential of AI lies in understanding its underlying technologies and their interplay.
+
+It is not just big business and Government departments that have access to these technologies, the barrier for entry is very low and anyone with an internet connected device and some basic prompting skills can learn how to harness the power in this exciting new field.
+
+Do not fear the technology, but ask “What can it do for me and my business?”

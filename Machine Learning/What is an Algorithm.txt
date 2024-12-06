@@ -1,0 +1,40 @@
+What is an Algorithm? 
+
+In the simplest terms, an algorithm is a set of instructions designed to perform a specific task.
+
+It is like a recipe for a dish, with each step clearly defined to achieve the desired result. In the context of Machine Learning, algorithms are used to create models that can analyse data, learn from that data, and then make a decision or prediction based on the learned patterns.
+
+The role of algorithms in ML is indispensable.
+
+They help in data processing, training the model, making predictions, and providing solutions. Machine Learning algorithms can be broadly classified into four types:
+
+• Supervised Learning, 
+• Unsupervised Learning, 
+• Semi-supervised Learning and 
+• Reinforcement Learning.
+
+Each type has its own set of algorithms, each with its own unique way of learning from data 
+
+How do Algorithms Work? 
+
+The working of an algorithm in Machine Learning involves a series of steps. The first step is to define the problem that needs to be solved. This could be anything from predicting future sales for a company to identifying objects in an image. 
+
+Next, the data is prepared. This involves collecting and cleaning the data to remove any errors or inconsistencies. The data is then split into two parts: training data and testing data. The training data is used to train the model, while the testing data is used to evaluate its performance. 
+
+Once the data is ready, the appropriate Machine Learning algorithm is chosen and the model is trained. The algorithm analyses the training data and learns from it.
+
+This learning process involves finding patterns, relationships, or trends in the data that can be used to make accurate predictions or decisions.
+
+After the model is trained, it is tested using the testing data. This helps to evaluate the performance of the model and determine how well it has learned from the training data. If the model performs well, it can be deployed and used to make predictions or decisions in real-world scenarios.
+
+What is an Algorithm's Relationship to AI? 
+
+Artificial Intelligence is a broad field that aims to create machines that can perform tasks that would normally require human intelligence. This includes tasks like understanding natural language, recognizing patterns, solving problems, and making decisions.
+
+Machine Learning is a subset of AI, and it involves the use of algorithms to create models that can learn from data. Therefore, the relationship between algorithms and AI is that algorithms are the tools that make AI possible.
+
+In AI, algorithms are used to create intelligent systems that can learn from their experiences, adapt to new situations, and perform tasks that were previously thought to be exclusive to humans.
+
+These algorithms are what allow AI systems to understand language, recognize images, play games, drive cars, and so much more.
+
+In conclusion, algorithms are the heart and soul of Machine Learning and Artificial Intelligence.
