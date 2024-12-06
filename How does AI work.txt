@@ -1,0 +1,9 @@
+How does AI work?
+
+Introduction
+
+Artificial Intelligence (AI) and Machine Learning (ML) are two buzzwords that have taken the world by storm. Today, they are embedded in various aspects of our lives, from voice assistants like Alexa and Siri to recommendation engines on Netflix and Amazon. 
+
+But have you ever paused to ask, "How does AI actually work?"
+
+In this lesson we delve into the intricate world of AI and ML, and give a brief overview to help unravel some complexities and help your understanding of their functions.

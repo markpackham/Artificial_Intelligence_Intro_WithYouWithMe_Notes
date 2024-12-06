@@ -6,3 +6,22 @@ History of AI
 The history of AI is a riveting tale of human ingenuity and innovation. The concept of artificial intelligence dates back to the ancient world, but the modern field of AI came into existence in the mid-20th century. The term “Artificial Intelligence” was coined in 1956 at the Dartmouth Conference, where the core idea of “thinking machines” was proposed. 
 
 Since then, AI has evolved and grown exponentially, with significant breakthroughs like machine learning, neural networks, and deep learning. Starting with things such as a pocket calculator or a “Computer Controlled” opponent in a Chess match or video game, right up to the smart devices and suggestion algorithms of Netflix and Amazon that we see today
+
+
+Applications of AI
+
+AI is not just a theoretical concept; or one solely for leisure. It has always had practical applications that have revolutionised various sectors. 
+
+Lets visit some of the ways that AI is currently being used.
+
+Healthcare
+AI is used for early detection and diagnosis of diseases.
+
+Finance
+It's used for fraud detection and managing investments. 
+
+Retail
+AI is used for personalized recommendations.
+
+Transportation
+AI is used for optimizing routes and autonomous vehicles
