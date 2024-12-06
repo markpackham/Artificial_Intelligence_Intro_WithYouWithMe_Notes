@@ -1,0 +1,60 @@
+Using apps to assist with your data sets
+
+
+Microsoft Azure Machine Learning
+Microsoft Azure Machine Learning is a is a comprehensive cloud-based predictive analytics service that makes it possible to quickly create and deploy predictive models as analytics solutions. This data app leverages AI and ML to provide insights and predictions, allowing businesses to make data-driven decisions, allowing users to build machine learning models with ease and efficiency.Azure Machine Learning offers a range of services, including data preparation, algorithm development, model training, and model deployment. It also supports a variety of open-source frameworks, such as PyTorch, TensorFlow, and scikit-learn, enabling developers to use their preferred machine learning tools.
+
+Its wide range of tools and services that simplify the process of building and deploying machine learning models supports both code-first and low-code experiences, making it accessible to data scientists and beginners alike.
+
+
+IBM Watson
+IBM Watson is a powerful data app that uses AI and ML to provide businesses with the tools they need to predict and shape future outcomes, automate complex processes, and optimize employees' time. 
+
+Its AI-powered analytics can process structured and unstructured data, making it ideal for various industries, including finance, healthcare, and marketing.
+
+Watson offers a wide range of AI services, including visual recognition, natural language understanding, and machine learning. Its large language models can understand, reason, learn, and interact in human language, providing businesses with a powerful tool to engage with their customers.
+
+Watson's machine learning service also allows users to create, train, and deploy self-learning models using automated, collaborative, and continuous learning systems. 
+
+It supports a wide range of open-source frameworks and languages, enabling developers to build, deploy, and manage AI models at any scale.
+
+
+Google Cloud AutoML
+Google Cloud AutoML is a state-of-the-art transfer learning and neural architecture search technology that employes fully leveraged AI and ML. Thisenables developers with limited machine learning expertise to train high-quality models with limited effort.
+
+It offers a suite of machine learning and supports a wide bunch of products that enables developers to build scalable ML models with a wide selection of data types. 
+
+Its capabilities include image recognition, natural language processing and translation amongst others.
+
+This product is particularly useful for businesses looking to automate their decision-making processes, as it provides them with the tools they need to develop accurate predictive models. Its user-friendly interface, coupled with its robust machine learning capabilities make a great choice for businesses looking to get smart with their data.
+
+
+Google Gemini
+Google Gemini is both an LLM and also an effective project management tool that uses AI and ML to help teams manage their projects more efficiently. It uses machine learning algorithms to predict project outcomes, automate repetitive tasks, and provide actionable insights. 
+
+Google Gemini is a great tool for businesses looking to improve their project management processes and increase their team's productivity with smart data insights.
+
+
+ChatGPT
+ChatGPT is an AI LLM developed by OpenAI that uses machine learning to generate human-like text. It's trained on a diverse range of internet text, but it's also capable of personalizing its responses based on the conversation's context. 
+
+Its data interpretation capabilities are particularly useful for businesses looking to improve their customer service, as it can handle a wide range of customer queries, freeing up time for human agents to handle more complex issues.
+
+
+Polymer
+Polymer is a data loss prevention platform that uses AI and ML to secure sensitive data across various cloud applications. 
+
+It uses machine learning algorithms to identify and protect sensitive data, such as credit card numbers, social security numbers, and other personally identifiable information. 
+
+Polymer is a great tool for businesses looking to improve their data security and comply with data privacy regulations.
+
+
+Conclusion
+
+In conclusion, the rise of AI and ML has led to the development of a wide range of dedicated data app. and also LLMs with data interpretation capabilities, designed to help businesses leverage these technologies effectively. 
+
+From predictive analytics to natural language understanding, machine learning, and data security, these data apps offer a wide range of services that can help businesses improve their decision-making processes, automate complex tasks, and engage with their customers in a more personalized way. 
+
+Whether you're a data scientist or a business owner with limited machine learning expertise, these data apps provide you with the tools you need to harness the power of AI and ML to make smarter, more informed decisions with your data sets.
+
+As AI and ML continue to evolve, we can expect these platforms and others to offer even more advanced and innovative features that will further revolutionize the field of data analysis.
