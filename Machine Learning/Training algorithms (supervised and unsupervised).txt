@@ -1,0 +1,72 @@
+Training algorithms (supervised and unsupervised)
+
+Understanding Training Algorithms 
+
+At the heart of Machine Learning lies the concept of algorithms as we have already discussed.
+
+These are sets of rules or instructions that a computer follows in a step-by-step manner to solve a problem or accomplish a task.
+
+Training algorithms in ML are used to train a model using a dataset. They are the core engines behind the learning process, allowing the model to learn patterns and relationships from the data.
+
+There are primarily two categories of training algorithms: Supervised and unsupervised, and we will look at both in this lesson.
+
+Supervised Training Algorithms 
+
+Supervised learning is where the training algorithm is provided with labelled data, meaning each data point in the training set is paired with an expected output. The algorithm learns a mapping function from the input variables – the “Features” - to the output variable – the “Label”. 
+
+The goal is to approximate the mapping function so well that when new input data is introduced, the algorithm can predict the output accurately.
+
+Common supervised learning algorithms include but are not limited to:
+
+• Linear regression,
+
+• Decision trees, 
+
+• K-Nearest keighbours and 
+
+• Support vector machines.
+
+These algorithms are widely used in applications such as image recognition, speech recognition, and predictive analytics, where the output is known, and the algorithm needs to learn the relationship between the input and output. 
+
+
+Unsupervised Training Algorithms 
+
+In contrast, unsupervised learning involves training algorithms with unlabelled data.
+
+The algorithm is not provided with the correct answers but must discover the underlying structure or distribution in the data to learn more about the data.
+
+Unsupervised learning is more about exploring the data and finding some structure within.
+
+Unsupervised learning algorithms include but are not limited to:
+
+• Clustering algorithms like K-means,
+
+• Hierarchical clustering,
+
+• Density-based clustering, and
+
+• Dimensionality reduction algorithms like Principal Component Analysis (PCA).
+
+These algorithms are commonly used in market segmentation, social network analysis, and anomaly detection, where the goal is to group similar data points together without a specific output variable. 
+
+
+The Differences 
+
+The primary difference between supervised and unsupervised training algorithms lies in the data they work with.
+
+While supervised learning works with labelled data and predicts a known output, unsupervised learning deals with unlabelled data and is more about understanding the underlying structure of the data.
+
+In terms of complexity, supervised learning is usually straightforward since the output is known, making it easier to measure the accuracy of predictions.
+
+On the other hand, unsupervised learning can be more complex as it's challenging to evaluate the accuracy of the outcomes due to the absence of a known output.
+
+
+Conclusion 
+
+Training algorithms, supervised and unsupervised, are the lifeblood of Machine Learning.
+
+In essence, they enable machines to learn from data and make predictions or decisions without being explicitly programmed. Understanding these algorithms, their differences, and applications is crucial for anyone delving into the world of Machine Learning.
+
+Whether it's predicting future sales, recognizing images, or grouping customers based on their buying behaviour, these algorithms are the driving force behind these intelligent systems.
+
+Comprehending this is the final piece of the puzzle in your elementary understanding of Machine Learning and its relevance to wider AI, in a World where machines are constantly learning, adapting, and evolving.
